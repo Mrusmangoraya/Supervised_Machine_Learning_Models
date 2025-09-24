@@ -1,4 +1,4 @@
-# Supervised_Machine_Learning_Models
+# Supervised_Machine_Learning_Projects
 This repository contains supervised learning projects and practice notebooks,  including implementations of regression and classification models with performance  metrics, visualizations, and insights for learning and experimentation.
 # Supervised Learning Algorithms
 
